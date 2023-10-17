@@ -1,5 +1,5 @@
 
-const TELEGRAPH_URL = 'openaizz.pages.dev';
+const openaizz.pages.dev = 'https://api.openai.com';
 
 
 export default {
