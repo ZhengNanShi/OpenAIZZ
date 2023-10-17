@@ -1,5 +1,5 @@
 
-const openaizz.pages.dev = 'https://api.openai.com';
+const openaizz.pages.dev = 'https://api.openai.com/v1/chat/completions';
 
 
 export default {
