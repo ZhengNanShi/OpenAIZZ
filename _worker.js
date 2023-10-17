@@ -1,5 +1,5 @@
 
-const TELEGRAPH_URL = 'https://api.openai.com';
+const https://github.com/ZhengNanShi/OpenAIZZ = 'https://api.openai.com';
 
 
 export default {
